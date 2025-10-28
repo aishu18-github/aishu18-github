@@ -2,13 +2,6 @@
   <img src="AISHWARYA G.png" alt="Aishwarya G - Banner" width="100%"/>
 </p>
 
-### 🔗 Connect with Me
-<p align="center">
-  <a href="www.linkedin.com/in/aishwarya-g-622b3b293"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="aishu72345@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-your--email-ff6bd8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
 
 ### 🛠️ Languages & Tools
 <p align="center">
