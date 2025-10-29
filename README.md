@@ -15,7 +15,7 @@
 <p align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aishu18-github&show_icons=true&theme=radical&bg_color=0d0221" />
   &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishu18-github&layout=compact&theme=radical&bg_color=0d0221" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishu18-github&layout=compact&langs_count=10&theme=radical&bg_color=0d0221&hide_title=true" />
 </p>
 
 
