@@ -20,7 +20,6 @@
 
 ---
 
----
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aishu18-github&theme=github_dark&bg_color=191717&color=66E066&line=66E066&point=B388FF)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
