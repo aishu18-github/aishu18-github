@@ -20,15 +20,6 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=aishu18-github&show_icons=true&theme=radical&hide_border=true&border_radius=20&bg_color=0d0221)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aishu18-github&layout=compact&langs_count=10&theme=radical&bg_color=0d0221&hide_border=true&border_radius=20)
-
-</div>
 ---
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aishu18-github&theme=github_dark&bg_color=191717&color=66E066&line=66E066&point=B388FF)](https://github.com/Ashutosh00710/github-readme-activity-graph)
