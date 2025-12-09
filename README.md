@@ -20,10 +20,7 @@
 
 ---
 
-### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=aishu18-github&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 ### 📊 GitHub Stats
 
 <div align="center">
